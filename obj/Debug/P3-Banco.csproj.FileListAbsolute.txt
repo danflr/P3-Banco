@@ -1,0 +1,7 @@
+C:\Users\dany-\Universidad\7mo\Desarrollo .NET\Practicas\P3-Banco\P3-Banco\bin\Debug\P3-Banco.exe.config
+C:\Users\dany-\Universidad\7mo\Desarrollo .NET\Practicas\P3-Banco\P3-Banco\bin\Debug\P3-Banco.exe
+C:\Users\dany-\Universidad\7mo\Desarrollo .NET\Practicas\P3-Banco\P3-Banco\bin\Debug\P3-Banco.pdb
+C:\Users\dany-\Universidad\7mo\Desarrollo .NET\Practicas\P3-Banco\P3-Banco\obj\Debug\P3-Banco.csprojAssemblyReference.cache
+C:\Users\dany-\Universidad\7mo\Desarrollo .NET\Practicas\P3-Banco\P3-Banco\obj\Debug\P3-Banco.csproj.CoreCompileInputs.cache
+C:\Users\dany-\Universidad\7mo\Desarrollo .NET\Practicas\P3-Banco\P3-Banco\obj\Debug\P3-Banco.exe
+C:\Users\dany-\Universidad\7mo\Desarrollo .NET\Practicas\P3-Banco\P3-Banco\obj\Debug\P3-Banco.pdb
